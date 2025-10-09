@@ -1,0 +1,14 @@
+D:\firstprogramc#\bin\Debug\net9.0\firstprogramc#.exe
+D:\firstprogramc#\bin\Debug\net9.0\firstprogramc#.dll
+D:\firstprogramc#\obj\Debug\net9.0\firstprogramc#.GeneratedMSBuildEditorConfig.editorconfig
+D:\firstprogramc#\obj\Debug\net9.0\firstprogramc#.AssemblyInfoInputs.cache
+D:\firstprogramc#\obj\Debug\net9.0\firstprogramc#.AssemblyInfo.cs
+D:\firstprogramc#\obj\Debug\net9.0\firstprogramc#.csproj.CoreCompileInputs.cache
+D:\firstprogramc#\obj\Debug\net9.0\firstprogramc#.dll
+D:\firstprogramc#\obj\Debug\net9.0\refint\firstprogramc#.dll
+D:\firstprogramc#\obj\Debug\net9.0\firstprogramc#.pdb
+D:\firstprogramc#\bin\Debug\net9.0\firstprogramc#.deps.json
+D:\firstprogramc#\bin\Debug\net9.0\firstprogramc#.runtimeconfig.json
+D:\firstprogramc#\bin\Debug\net9.0\firstprogramc#.pdb
+D:\firstprogramc#\obj\Debug\net9.0\firstprogramc#.genruntimeconfig.cache
+D:\firstprogramc#\obj\Debug\net9.0\ref\firstprogramc#.dll
