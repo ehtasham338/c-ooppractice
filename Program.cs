@@ -102,6 +102,24 @@ class Program
         t.carfeature();
 
 
+        Console.WriteLine();
+        
+       CargoTruck cargo = new CargoTruck("CargoMaster", 20);
+FuelTruck fuel = new FuelTruck("FuelKing", 5000);
+RefrigeratedTruck fridge = new RefrigeratedTruck("IceTruck", 10);
+
+cargo.LoadCargo(15);
+cargo.Drive();
+Console.WriteLine();
+
+fuel.LoadCargo(4000);
+fuel.Drive();
+Console.WriteLine();
+
+fridge.LoadCargo(8);
+fridge.Drive();
+
+
 
     }
 }
