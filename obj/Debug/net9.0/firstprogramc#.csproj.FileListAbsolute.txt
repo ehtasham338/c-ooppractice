@@ -12,3 +12,4 @@ D:\firstprogramc#\bin\Debug\net9.0\firstprogramc#.runtimeconfig.json
 D:\firstprogramc#\bin\Debug\net9.0\firstprogramc#.pdb
 D:\firstprogramc#\obj\Debug\net9.0\firstprogramc#.genruntimeconfig.cache
 D:\firstprogramc#\obj\Debug\net9.0\ref\firstprogramc#.dll
+D:\firstprogramc#\obj\Debug\net9.0\firstprogramc#.sourcelink.json

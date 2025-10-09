@@ -2,7 +2,9 @@
 // inheritance example in C#
 
 
+
 using System;
+using System.Security.Cryptography;
 
 public class Person
 {
@@ -67,14 +69,41 @@ class Program
         Person p1 = new Person("Sara", 30, "Islamabad");
         p1.showdetails();
 
+        Console.WriteLine();
 
+        Console.WriteLine("encapsualtion exapmle ");
 
-          // student object
+        // student object
 
-       Student s1 = new Student();
+        Student s1 = new Student();
         s1.Name = "ehatshma sardar";
         s1.Age = 24;
         s1.Address = "Kpk";
         s1.showdetails();
+
+
+        //car object
+          Console.WriteLine();
+
+        Console.WriteLine("abstarction examplemcode ");
+
+        Toyota t = new Toyota("Toyota Corolla", "White", 2023, 3500000, 180);
+        t.showDetails();
+        t.carfeature();
+        Console.WriteLine();
+
+        Honda h = new Honda("Honda Civic", "Black", 2024, 4200000, 18);
+        h.showDetails();
+        t.carfeature();
+        Console.WriteLine();
+
+        Mercedes m = new Mercedes("Mercedes S-Class", "Silver", 2025, 15000000, 3500);
+        m.showDetails();
+        t.carfeature();
+
+
+
     }
 }
+
+
