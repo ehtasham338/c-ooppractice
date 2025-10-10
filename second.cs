@@ -1,5 +1,5 @@
 // encapsuation example practice:
-
+/*
 
 using System;
 
@@ -35,6 +35,9 @@ public class Student{
 
 
 }
+
+
+*/
 
 
 

@@ -1,6 +1,7 @@
 ﻿
 // inheritance example in C#
 
+/*
 
 
 using System;
@@ -122,6 +123,10 @@ fridge.Drive();
 
 
     }
+
+
 }
 
+
+*/
 

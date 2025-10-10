@@ -1,9 +1,11 @@
 // interface example 
 
+/*
+
 public interface ITruck
 {
-    void LoadCargo(int weight);   
-    void Drive();                 
+    void LoadCargo(int weight);
+    void Drive();
 }
 public class CargoTruck : ITruck
 {
@@ -74,3 +76,5 @@ public class RefrigeratedTruck : ITruck
         Console.WriteLine($"{TruckName} is driving while keeping cargo refrigerated.");
     }
 }
+
+*/

@@ -1,5 +1,5 @@
 // abstarction example practice;
-using System;
+/*using System;
 
 
 public abstract class Car
@@ -71,5 +71,8 @@ public class Mercedes : Car
         Console.WriteLine("Engine of car is  " + engine);
     }
 }
+
+
+*/
 
 
