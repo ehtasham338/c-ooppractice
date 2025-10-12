@@ -1,3 +1,7 @@
+
+/*
+
+
 using System;
 
 public abstract class Person
@@ -122,3 +126,6 @@ public class Program
         c1.ShowInfoCourse();
     }
 }
+
+
+*/
