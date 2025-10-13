@@ -1,5 +1,6 @@
 // method practice in c#
 
+/*
 using System;
 public class Program{
 
@@ -43,3 +44,5 @@ public class Program{
 
 
 }
+
+*/
