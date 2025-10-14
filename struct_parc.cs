@@ -1,3 +1,7 @@
+// struct 
+
+/*
+
 using System;
 public struct Student
 {
@@ -31,3 +35,8 @@ public class Program
         s1.showinfo();
     }
 }
+
+
+
+
+*/
