@@ -1,30 +1,68 @@
-// Obsolete practice 
+// obosolute method practice
 /*
 
 
 using System;
-
-public class Demo
+public class Student
 {
-    [Obsolete("i am old use new () method ")]
-    public void Oldshow()
+
+    public string name { get; set; }
+    public int age { get; set; }
+    public Student(string name,int age)
     {
-        Console.WriteLine("Hello  i am old method please use new method ");
+        this.name = name;
+        this.age = age;
     }
 
-    public void Newshow()
+
+
+
+    [Obsolete("this is old method  ", true)]
+    public void showinfo()
     {
-        Console.WriteLine("Hello  i am a new method ");
+        Console.WriteLine("the name of student is" + name);
+        Console.WriteLine("the age of student is" + age);
+
+
+
+
+    }
+    public void displayinfo()
+    {
+        Console.WriteLine("the name of student is" + name);
+        Console.WriteLine("the age of student is" + age);
     }
 
-    public static void Main(string[]args)
 
+    public class Program
     {
-        var d = new Demo();
 
-        d.Oldshow();  
-        d.Newshow();
+        static void Main(string[] args)
+        {
+            Student s1 = new Student("ehatshm", 32);
+            s1.showinfo();
+            s1.displayinfo();
+            
+
+            
+
+
+
+        }
+
+
+        
+
+
+
     }
+
+    */
+    
+    
+    
+
+
+
+
 }
-
-*/

@@ -1,3 +1,5 @@
+/*
+
 using Microsoft.AspNetCore.Mvc;
 
 [ApiController]
@@ -10,3 +12,5 @@ public class MyController : ControllerBase
         return "Hello, " + name + "!";
     }
 }
+
+*/
