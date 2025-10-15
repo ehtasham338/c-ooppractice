@@ -1,3 +1,6 @@
+// custom expection handling opractice
+
+/*
 using System;
 
 
@@ -47,3 +50,6 @@ public class Program
     }
     
 }
+
+
+*/
