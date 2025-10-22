@@ -1,3 +1,5 @@
+
+/*
 using System;
 
 class Student
@@ -36,3 +38,5 @@ class Program
         Console.WriteLine(s1.Equals(s2)); 
     }
 }
+
+*/

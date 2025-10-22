@@ -1,39 +1,65 @@
-//generic example
 /*
+
+
+// generic practice 
 
 
 using System;
 
-public class Box<T> 
-{
-    public T Value { get; set; }
 
-    public void ShowValue()
+public class Box<T>{
+
+
+public T Item { get; set; }
+
+    public void showitem()
     {
-        Console.WriteLine("Value is: " + Value);
-    }
-}
+        Console.WriteLine("store item:"Item);
 
-class Program
-{
-    static void Main()
-    {
-        
-        Box<int> intBox = new Box<int>();
-        intBox.Value = 123;
-        intBox.ShowValue(); 
-
-        
-        Box<string> strBox = new Box<string>();
-        strBox.Value = "Hello";
-        strBox.ShowValue();  
-
-        
-        Box<double> dblBox = new Box<double>();
-        dblBox.Value = 99.99;
-        dblBox.ShowValue(); 
     }
 
 
+
 }
+public class Book {
+
+
+    public string title { get; set; }
+    public override string ToString() => "Book: " + title;
+}
+
+
+public class Pen
+{
+    public string colour { get; set; }
+
+    public override string ToString() => "Pen: " + colour;
+
+}
+
+
+public class Program
+{
+    static void Main(string[] args)
+
+    {
+        Box<Book> strbox = new Box<Book>();
+        strbox.Item = new Book { title = "C# Programming" };
+        strbox.showitem();
+
+
+        Box<Pen> penBox = new Box<Pen>();
+        penBox.Item = new Pen { colour = "Blue" };
+        penBox.showitem();
+        
+
+
+
+
+
+    }
+
+
+}
+
 */
