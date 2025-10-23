@@ -1,3 +1,9 @@
+
+// parametrized thread practice 
+/*
+
+
+
 using System;
 using System.Threading;
 
@@ -19,3 +25,5 @@ public class Program
         Console.WriteLine("Main thread running...");
     }
 }
+
+*/
